@@ -13,5 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get('sample', function(){
-    return public_path();
+    return "sampeeee";
 });
